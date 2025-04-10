@@ -1,0 +1,8 @@
+{
+    "port": 7546,
+    "gasLimit": 10000000,
+    "defaultGasPrice": 20000000000,
+    "chainId": 1337,
+    "mnemonic": "next increase spice tobacco initial gauge physical castle rifle vital shrug quit"
+  }
+  
